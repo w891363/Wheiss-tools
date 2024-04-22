@@ -8,8 +8,4 @@
     { "source": "/(.*)", "destination": "/404.html" }
   ]
 }
-{
-  "engines": {
-    "node": "18.x"
-  }
-}
+
